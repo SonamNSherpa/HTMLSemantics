@@ -15,7 +15,6 @@ body {
 .title-doc {
   display: flex;
   align-items: center;
-  margin-top: 0px;
 }
 .intro {
   color: red;
@@ -46,4 +45,14 @@ p {
 .container {
   display: flex;
   align-items: center;
+}
+.promo-icon {
+  height: 30px;
+  margin-right: 10px;
+}
+.promo-container {
+  display: flex;
+  margin-left: 35px;
+  margin-top: 10px;
+  cursor: pointer;
 }
