@@ -1,0 +1,49 @@
+body {
+  font-size: 20px;
+}
+
+.namaste-pic {
+  max-width: 90px;
+  min-width: 90px;
+  margin-left: 500px;
+  margin-right: 15px;
+}
+.title {
+  background-color: gold;
+  display: inline;
+}
+.title-doc {
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
+}
+.intro {
+  color: red;
+  font-size: 20px;
+  align-items: flex-end;
+}
+p {
+  color: red;
+}
+.hotel {
+  color: darkgoldenrod;
+  text-decoration: none;
+}
+.hotel-link {
+  font-size: 20px;
+  background-color: lightcoral;
+  border: none;
+  padding: 5px 10px 5px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+.hotel-img {
+  max-width: 400px;
+  min-width: 400px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
